@@ -8,4 +8,4 @@ Here you can find the slide decks and takeaways for both of my HTML presentation
 
 ## HTML 201
 - **Slide Deck:** RX 2023 HTML 201.pdf
-- **Takeaway:** HTML_201_Takeaway.pdf
+- **Takeaway:** HTML 201 Takeaway.pdf
